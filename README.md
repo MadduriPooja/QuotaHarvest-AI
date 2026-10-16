@@ -24,16 +24,20 @@ Millions of prepaid mobile users rely on 1.5GB or 2GB daily data plans where unu
 * **Bandwidth Monitoring:** Tracks active server processes and data buffer status.
 * **Responsive UI:** Clean interface built with React and Vite for easy queue tracking.
 
----
+## **How to Run Locally**
 
-## 🚀 How to Run Locally
-
-### 1. Prerequisites
-* Node.js installed
-* MongoDB connection string configured
-
-### 2. Backend Setup
 ```bash
-cd quotaharvest-server
+# Clone the repository
+git clone https://github.com/MadduriPooja/QuotaHarvest-AI.git
+
+# Navigate into the project folder
+cd QuotaHarvest-AI
+
+# Install dependencies
 npm install
-node server.js
+
+# Start the development server
+npm run dev
+
+
+
